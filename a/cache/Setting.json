@@ -1,0 +1,14 @@
+{
+  "type": "custom_form",
+  "title": "KocakZ Server",
+  "icon": {
+    "type": "url",
+    "data": "https://img.icons8.com/color/96/000000/crafting-table.png"
+  },
+  "content": [
+    {
+      "type": "label",
+      "text": "§b§lKocakZ Server\n§rWelcome to §b§lKocakZ Server\n§r- Tutorial\n\n- How to make Chest Shop?\n1. You must have chest\n2. You must have Sign\n3. Put the Sign in the Chest\nLine 1 = Blank (do not write anything)\nLine 2 = Number you want to sell per transaction\nLine 3 = Price\nLine 4= Item ID:meta\n\n§e§lExample\n\n§rLine 1 = (Dont write anything)\nLine 2 = 1 --> Per transtaction\nLine 3 = 5000 --> Money Sell\nLine 4 = 220:1 -> Item ID (At ScoreHUD)\n\n5. And then done\n\n§c§lComing Soon!"
+    }
+  ]
+}
